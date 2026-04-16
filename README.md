@@ -1,4 +1,4 @@
-<img width="977" height="461" alt="Customers Table" src="https://github.com/user-attachments/assets/f400b430-3358-4c6d-a729-6c6d579e8723" />
+
 # 🗄️ Data Transformer
 
 > A structured MySQL project demonstrating real-world SQL techniques across three relational tables — built for learners and developers looking to sharpen their database querying skills.
