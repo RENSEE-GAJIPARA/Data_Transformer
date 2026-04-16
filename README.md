@@ -1,3 +1,4 @@
+<img width="977" height="461" alt="Customers Table" src="https://github.com/user-attachments/assets/f400b430-3358-4c6d-a729-6c6d579e8723" />
 # 🗄️ Data Transformer
 
 > A structured MySQL project demonstrating real-world SQL techniques across three relational tables — built for learners and developers looking to sharpen their database querying skills.
@@ -48,13 +49,16 @@
 ## 📊 Sample Data
 
 ### Customers Table
-![Customers Table](Customers_Table.png)
+<img width="977" height="461" alt="Customers Table" src="https://github.com/user-attachments/assets/90d1cb68-2615-4288-a472-c3f569c24d98" />
+
 
 ### Employees Table
-![Employees Table](Employees_Table.png)
+<img width="908" height="396" alt="Employees Table" src="https://github.com/user-attachments/assets/3f618d02-8ea3-4ea4-9f5b-5c294e481e1e" />
+
 
 ### Orders Table
-![Orders Table](Orders_Table.png)
+<img width="628" height="442" alt="Orders Table" src="https://github.com/user-attachments/assets/187aa24c-ecc8-4ddc-b4cd-f971693e3380" />
+
 
 ---
 
@@ -114,6 +118,8 @@ data-transformer/
 ---
 
 ## 👤 Author
+
+# RENSEE GAJIPARA
 
 Crafted with precision for SQL learners and developers.  
 Feel free to fork, extend, or use this as a portfolio reference.
