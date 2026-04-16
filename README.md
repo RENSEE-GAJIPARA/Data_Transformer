@@ -49,15 +49,15 @@
 ## 📊 Sample Data
 
 ### Customers Table
-<img width="977" height="461" alt="Customers Table" src="https://github.com/user-attachments/assets/90d1cb68-2615-4288-a472-c3f569c24d98" />
+<img width="480" height="230" alt="Customers Table" src="https://github.com/user-attachments/assets/90d1cb68-2615-4288-a472-c3f569c24d98" />
 
 
 ### Employees Table
-<img width="908" height="396" alt="Employees Table" src="https://github.com/user-attachments/assets/3f618d02-8ea3-4ea4-9f5b-5c294e481e1e" />
+<img width="450" height="200" alt="Employees Table" src="https://github.com/user-attachments/assets/3f618d02-8ea3-4ea4-9f5b-5c294e481e1e" />
 
 
 ### Orders Table
-<img width="628" height="442" alt="Orders Table" src="https://github.com/user-attachments/assets/187aa24c-ecc8-4ddc-b4cd-f971693e3380" />
+<img width="320" height="220" alt="Orders Table" src="https://github.com/user-attachments/assets/187aa24c-ecc8-4ddc-b4cd-f971693e3380" />
 
 
 ---
