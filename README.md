@@ -119,7 +119,7 @@ data-transformer/
 
 ## 👤 Author
 
-# RENSEE GAJIPARA
+### RENSEE GAJIPARA
 
 Crafted with precision for SQL learners and developers.  
 Feel free to fork, extend, or use this as a portfolio reference.
